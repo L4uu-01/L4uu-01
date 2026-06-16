@@ -1,6 +1,5 @@
 ## Oi! Eu sou a Laura Martins
 
-- 🌱Estou aprendendo HTML5, CSS.
 
 ![L4uu-01's GitHub stats](https://github-readme-stats.vercel.app/api?username=L4uu-01&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L4uu-01&langs_count=8)
@@ -12,8 +11,9 @@
 
 <hr>
      <a href= "https://www.linkedin.com/in/laura-d-0586673b3/" target="_blank">
-            <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+          <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
      </a>
+
 <hr>
 
 <div>
