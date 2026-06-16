@@ -1,16 +1,23 @@
-## Hi there 👋
+## Oi! Eu sou a Laura Martins
 
-<!--
-**L4uu-01/L4uu-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱Estou aprendendo HTML5, CSS.
 
-Here are some ideas to get you started:
+![L4uu-01's GitHub stats](https://github-readme-stats.vercel.app/api?username=L4uu-01&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L4uu-01&langs_count=8)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width = "70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width = "70" />
+          
+<hr>
+
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2d31fb44-5ddb-4efa-8aac-2f0ca1da0089" /><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/66681b5a-4286-4d36-a233-51c86ce93be9" /><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ca0b4bb6-6018-46e9-9893-e1cb0b07cebe" />
+
+
+
+
+
+            
+          
+          
+          
+               
