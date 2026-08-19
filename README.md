@@ -1,9 +1,5 @@
 ## Oi! Eu sou a Laura Martins
 
-
-![L4uu-01's GitHub stats](https://github-readme-stats.vercel.app/api?username=L4uu-01&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L4uu-01&langs_count=8)
-
 <div>
      <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width = "70" />
      <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width = "70" />
