@@ -3,7 +3,8 @@
 <div>
      <img align= "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width = "70" />
      <img align= "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width = "70" />
-     <i class="devicons devicons-c"></i>
+     <img align= "center"src="https://devicon-website.vercel.app/api/c/original.svg"  width = "70"></img>
+
 </div>   
 
 <hr>
