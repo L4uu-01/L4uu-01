@@ -1,16 +1,10 @@
 ## Oi! Eu sou a Laura Martins
 <div>
-     Software Engineering student passionate about technology and development.
-     <br>
-     Aspiring Front-End Developer | Software Engineering student.
-     <br>
-     Learning, building and improving one project at a time.
-     <br>
-     Software Engineering student focused on web development.
-     <br>
-     Turning ideas into code, one project at a time.
-     <br>
-     Always learning something new in tech.
+  <p>
+    Olá, meu nome é Laura!<br>
+    Sou estudante de Engenharia de Software.<br>
+    Estou aprendendo desenvolvimento Front-End.
+</p>
 </div>
 
 <hr> 
