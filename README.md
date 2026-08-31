@@ -1,12 +1,12 @@
 ## Oi! Eu sou a Laura Martins
-
-Software Engineering student passionate about technology and development.
-Aspiring Front-End Developer | Software Engineering student.
-Learning, building and improving one project at a time.
-Software Engineering student focused on web development.
-Turning ideas into code, one project at a time.
-Always learning something new in tech.
-
+<div>
+     Software Engineering student passionate about technology and development.
+     Aspiring Front-End Developer | Software Engineering student.
+     Learning, building and improving one project at a time.
+     Software Engineering student focused on web development.
+     Turning ideas into code, one project at a time.
+     Always learning something new in tech.
+</div>
 <div>
      <img align= "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width = "50" />
      <img align= "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width = "50" />
