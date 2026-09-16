@@ -5,7 +5,7 @@
     Sou estudante de Engenharia de Software.<br>
     Estou aprendendo desenvolvimento Front-End.
 </p>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=L4uu-01)](https://git.io/streak-stats)
+  
 </div>
 
 <hr> 
