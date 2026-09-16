@@ -6,9 +6,9 @@
     Estou aprendendo desenvolvimento Front-End.
 </p>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/L4uu-01?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/L4uu-01">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/L4uu-01?theme=dark">
+    <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/L4uu-01">
+  </picture>
 
 </div>
 
