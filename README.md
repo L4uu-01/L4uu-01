@@ -5,7 +5,7 @@
     Sou estudante de Engenharia de Software.<br>
     Estou aprendendo desenvolvimento Front-End.
 </p>
-  
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </div>
 
 <hr> 
